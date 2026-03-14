@@ -44,7 +44,7 @@ if __name__=='__main__':
             text=input("请输入密文：")
             shift=input("请输入密钥：")
             shift=int(shift)
-            print(Fore.GREEN+"密文"+caesar_cipher(text,shift,mode='decrypt'))
+            print(Fore.GREEN+"明文"+caesar_cipher(text,shift,mode='decrypt'))
         elif choice=="3":
             text=input("请输入密文：")
             brute_force(text)
