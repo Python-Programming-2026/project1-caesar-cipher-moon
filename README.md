@@ -71,5 +71,3 @@ caesar-cipher-tool/
 ![展示动画1](demo1.gif)
 ![展示动画2](demo2.gif)
 ![展示动画3](demo3.gif)
-
-完整演示视频：[点击查看](demo.mp4)
