@@ -3,7 +3,7 @@
 本代码旨在实现凯撒密码加密及解密过程，同时提供暴力破解来辅助解密。
 - 张琪悦 2243525449
 - 王泽宇 2243711404
-- 用到的知识：
+## 用到的知识：
 - 1. Python 基础语法：函数定义与调用（ def  关键字）条件判断（ if/elif/else ）与循环遍历（ for  循环）
                    字符串处理（字符遍历、 isalpha()  判断字母、 chr() / ord()  字符编码转换）输入输出（ input() 、 print() ）与交互式菜单设计
                    模块导入（ from colorama import Fore ）与主程序入口（ if __name__ == "__main__": ）
@@ -69,10 +69,13 @@ python caesar-cipher-moon.py
 
 ## 目录结构
 ```text
-caesar-cipher-tool/
+project1-caesar-cipher-moon/
 │
-├── caesar_cipher.py    # 主程序文件
+├── caesar-cipher-moon.py    # 主程序文件
 ├── README.md          # 说明文档
+├── demo1.gif
+├── demo2.gif
+├── demo3.gif         # 视频文件
 └── requirements.txt   # 依赖包列表
 ```
 ## 核心函数
