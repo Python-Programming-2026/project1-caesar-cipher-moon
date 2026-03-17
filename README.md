@@ -40,7 +40,7 @@ graph TD
 - 克隆或下载代码
 ```bash
 git clone https://github.com/Python-Programming-2026/project1-caesar-cipher-moon.git
-cd caesar-cipher-tool
+cd project1-caesar-cipher-moon
 ```
 - 安装依赖
 ```bash
