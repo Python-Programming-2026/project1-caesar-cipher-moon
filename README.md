@@ -39,7 +39,7 @@ graph TD
 ### 安装步骤
 - 克隆或下载代码
 ```bash
-git clone [你的仓库地址]
+git clone https://github.com/Python-Programming-2026/project1-caesar-cipher-moon.git
 cd caesar-cipher-tool
 ```
 - 安装依赖
